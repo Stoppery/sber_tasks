@@ -1,0 +1,14 @@
+{
+  "name": "second_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "second_task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miromanov Maxim <max.miromanov@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}

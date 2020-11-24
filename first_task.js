@@ -21,7 +21,7 @@ function amountOfNumbers(arr) {    // this function is fast, but has 999 iterati
 
 
 
-/* //Uncomment for the fastest function (28 iterations) it also works with comb = 2 || 1 || 3 and different base
+/* //Uncomment for the fastest function (28 iterations) 
 function amountOfNumbers() {
 	let base = 10, comb = 3, res=0, coef=0, plus = 0, f = 10;
 
